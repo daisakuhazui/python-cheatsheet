@@ -1,6 +1,4 @@
 # -*- coding:utf-8 -*-
-import unittest
-
 def solution(s: str) -> list:
     """
     Complete the solution so that it splits the string into pairs of two characters.
