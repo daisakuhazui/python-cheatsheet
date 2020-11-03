@@ -25,7 +25,7 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ## Memo
-- Python 3.9.0
+- Required `Python 3.9.0`
 
 ## Execute Test
 
